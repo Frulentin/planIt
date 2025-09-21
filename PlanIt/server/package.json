@@ -1,0 +1,13 @@
+{
+  "name": "planit-server",
+  "version": "1.0.0",
+  "description": "API minimale pour le projet PlanIt",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["planit", "calendar", "api"],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs"
+}

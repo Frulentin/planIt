@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": "800b6485-c878-4899-bb8f-fca23e33eb47",
+      "email": "exemple@gmail.com",
+      "name": "Valentin",
+      "salt": "2fba9cec8711eed0bd6055abcdc33211",
+      "passwordHash": "7e8334504cfa11659e2d2f6d9e42b8be8c20408294c6299979594915b86ba4d0",
+      "createdAt": "2025-09-18T15:00:34.856Z"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "83ee534c-eabe-4300-8a10-e0998c15bf90",
+      "userId": "800b6485-c878-4899-bb8f-fca23e33eb47",
+      "title": "Réunion 9h",
+      "description": "Penser à appeler John et Rebecca en amont",
+      "day": 0,
+      "position": 0,
+      "createdAt": "2025-09-19T12:43:30.186Z"
+    },
+    {
+      "id": "889665e4-1654-4b1d-94c2-88bb0380cd49",
+      "userId": "800b6485-c878-4899-bb8f-fca23e33eb47",
+      "title": "Cours de chant 19h",
+      "description": "",
+      "day": 0,
+      "position": 1,
+      "createdAt": "2025-09-19T12:44:36.672Z"
+    },
+    {
+      "id": "ae31690f-929d-4f8f-b856-e400fb2df326",
+      "userId": "800b6485-c878-4899-bb8f-fca23e33eb47",
+      "title": "Repas famille",
+      "description": "Acheter une bouteille de vin",
+      "day": 6,
+      "position": 0,
+      "createdAt": "2025-09-19T12:45:18.528Z"
+    },
+    {
+      "id": "322b5567-9d2e-415f-83ba-e0cc56a2872d",
+      "userId": "800b6485-c878-4899-bb8f-fca23e33eb47",
+      "title": "Faire les courses",
+      "description": "",
+      "day": 1,
+      "position": 0,
+      "createdAt": "2025-09-19T12:47:00.694Z"
+    },
+    {
+      "id": "a7bb5163-453d-4097-8bbc-61b3f1f0ed6b",
+      "userId": "800b6485-c878-4899-bb8f-fca23e33eb47",
+      "title": "Rdv médecin",
+      "description": "3 rue Square des Olivier",
+      "day": 2,
+      "position": 0,
+      "createdAt": "2025-09-19T12:47:59.478Z"
+    },
+    {
+      "id": "1973daf3-a825-4c16-99fa-355d46580e53",
+      "userId": "800b6485-c878-4899-bb8f-fca23e33eb47",
+      "title": "Bilan fin de semaine avec Martine",
+      "description": "",
+      "day": 4,
+      "position": 0,
+      "createdAt": "2025-09-19T12:52:15.459Z"
+    }
+  ]
+}
